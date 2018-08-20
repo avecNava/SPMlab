@@ -9,6 +9,6 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <h2>Kantipur City College</h2>
+    <h2>Avengers</h2>
 </body>
 </html>
